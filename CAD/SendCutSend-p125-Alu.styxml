@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<Export>
+
+  <!--Exported by Autodesk Inventor Version 28.0 Production Candidate-->
+
+  <!--The schema of this file is subject to change without notice and is not guaranteed to remain the same from one release to the next.-->
+
+  <Colors Version="19">
+    <Style Ambient="0.9959999919 0.996999979 1 1" BumpMapAmount="0" BumpMapImageFile="" BumpMapImagePath="0" BumpMapRotation="0" BumpMapScale="1" CutoutImageFile="" CutoutImagePath="0" CutoutReverted="0" CutoutRotation="0" CutoutScale="1" Diffuse="0.9959999919 0.996999979 1 1" EditFlag="0" Emissive="0 0 0 1" InternalName="1:Aluminum - Flat&#xA;" IsMasked="0" Mask="0 0 0 0" Opacity="100" ProteinGenericDiffuse="0.9959999919 0.996999979 1 1" ProteinGenericDiffuseImageFade="1" ProteinGenericGlossiness="0.2" ProteinGenericIsMetal="1" ProteinGenericReflectivityAt0Deg="0.92" ProteinGenericReflectivityAt90Deg="1" ProteinGenericSelfIllumColorTemperature="0" ProteinGenericSelfIllumLuminance="0" ProteinGenericTranslucency="0" ProteinGenericTransparency="0" ProteinGenericrefraction="1" ProteinLibraryId="AFEFC330-5E61-4E24-814F-AE810148B79D" ProteinMaterialHidden="1" ProteinMaterialId="InvGen-062-1-2" ProteinMaterialRotation="0" ProteinMaterialScale="1" ProteinTintColor="-1 -1 -1 -1" ReflectionImageFile="" ReflectionImagePath="0" Refraction="1" Rotation="0" Scale="1" Shininess="59.2" ShowBackFaces="0" Specular="0.9959999919 0.996999979 1 1" TextureFile="" TexturePath="0" TextureWrapModeU="0" TextureWrapModeV="0">
+      <Name Category="Metal/Aluminum" Description="Generic material." Language="1033">Aluminum - Flat</Name>
+    </Style>
+  </Colors>
+
+  <Materials Version="6">
+    <Style Density="2.7" EditFlag="0" ExternalMaterialId="2:MATERIAL:MI_InventorSustainability:4B6DBD91-43C6-4D25-8DF6-8066300DF3C8:032A8753-4C73-4F67-A4CF-066E33C4A0C3:0" InternalName="1:Aluminum 6061&#xA;" LinearExpansion="23.6" PoissonsRatio="0.33" ProteinLibraryId="AFEFC330-5E61-4E24-814F-AE810148B79D" ProteinMaterialId="MaterialInv_004" SpecificHeat="0.897" ThermalConductivity="167" UltimateTensileStrength="310" WeldmentMaterial="0" YieldStrength="275" YoungsModulus="68.9">
+      <SubStyle Collection="Colors" Language="1033" LibId="AFEFC330-5E61-4E24-814F-AE810148B79D" Type="ColorStyle">Aluminum - Flat</SubStyle>
+      <Name Description="Aluminum, magnesium silicon alloy" Language="1033">Aluminum 6061</Name>
+    </Style>
+  </Materials>
+
+  <SheetMetalUnfold Version="3">
+    <Style EditFlag="3" InternalName="1:Default_KFactor&#xA;" KFactor="0.440 ul" KFactorBackup="0.440 ul" SplineFactor="0.500 ul" Type="1">
+      <BendTable AngleTolerance="0.004" InputUnit="3" IsOuterAngle="0" RadiiTolerance="0.004" ThicknessTolerance="4e-05"/>
+      <Name Description="" Language="1033">Default_KFactor</Name>
+      <Name Description="" Language="1028">預設 K 係數(_K)</Name>
+      <Name Description="" Language="1029">Výchozí_KFaktor</Name>
+      <Name Description="" Language="1031">Standard_KFaktor</Name>
+      <Name Description="" Language="1036">Par défaut_FacteurX</Name>
+      <Name Description="" Language="1038">Alapértelmezett_KFaktor</Name>
+      <Name Description="" Language="1040">FattoreK_di_default</Name>
+      <Name Description="" Language="1041">Default_KFactor</Name>
+      <Name Description="" Language="1042">기본값_KFactor</Name>
+      <Name Description="" Language="1045">Domyślny_WspółczynnikK</Name>
+      <Name Description="" Language="1046">Padrão_Fator-K</Name>
+      <Name Description="" Language="1049">По умолчанию_Поправка</Name>
+      <Name Description="" Language="2052">默认 K 系数</Name>
+      <Name Description="" Language="3082">FactorK_Pordefecto</Name>
+    </Style>
+  </SheetMetalUnfold>
+
+  <SheetMetalRules Version="4">
+    <Style BendAngleRepType="1" BendRadius="3.175" BendReliefType="2" BendTransitionType="1" EditFlag="3" GapSize="#Thickness#" InternalName="1:SendCutSend_1-8_Alu&#xA;" MinimumRemnant="#Thickness# * 2.0 ul" PunchRepStatus="1" ReliefDepth="#Thickness# * 0.5 ul" ReliefWidth="#Thickness#" Thickness="3.175" ThreeBendIntersectionSize="#BendRadius#" ThreeBendIntersectionType="4" TransitionRadius="#BendRadius#" TwoBendIntersectionSize="#Thickness# * 4 ul" TwoBendIntersectionType="4">
+      <SubStyle Collection="SheetMetalUnfold" Language="1033" Type="UnfoldStyle">Default_KFactor</SubStyle>
+      <SubStyle Collection="Materials" Language="1033" LibId="AFEFC330-5E61-4E24-814F-AE810148B79D" Type="MaterialStyle">Aluminum 6061</SubStyle>
+      <Name Description="" Language="1033">SendCutSend_1-8_Alu</Name>
+    </Style>
+  </SheetMetalRules>
+
+</Export>
