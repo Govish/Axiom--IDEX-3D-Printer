@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<Export>
+
+  <!--Exported by Autodesk Inventor Version 28.0 Production Candidate-->
+
+  <!--The schema of this file is subject to change without notice and is not guaranteed to remain the same from one release to the next.-->
+
+  <Colors Version="19">
+    <Style Ambient="0.9959999919 0.996999979 1 1" BumpMapAmount="0" BumpMapImageFile="" BumpMapImagePath="0" BumpMapRotation="0" BumpMapScale="1" CutoutImageFile="" CutoutImagePath="0" CutoutReverted="0" CutoutRotation="0" CutoutScale="1" Diffuse="0.9959999919 0.996999979 1 1" EditFlag="0" Emissive="0 0 0 1" Identifier="Generic" InternalName="1:Aluminum - Flat&#xA;" IsMasked="0" LocalUIName="Aluminum - Flat" Mask="0 0 0 0" Opacity="100" ProteinGenericDiffuse="0.9959999919 0.996999979 1 1" ProteinGenericDiffuseImageFade="1" ProteinGenericGlossiness="0.592" ProteinGenericIsMetal="1" ProteinGenericReflectivityAt0Deg="0.184" ProteinGenericReflectivityAt90Deg="0.184" ProteinGenericSelfIllumColorTemperature="0" ProteinGenericSelfIllumLuminance="0" ProteinGenericTranslucency="0" ProteinGenericTransparency="0" ProteinGenericrefraction="1" ProteinLibraryId="AFEFC330-5E61-4E24-814F-AE810148B79D" ProteinMaterialHidden="1" ProteinMaterialId="InvGen-062-1-2" ProteinMaterialRotation="0" ProteinMaterialScale="1" ProteinTintColor="-1 -1 -1 -1" ReflectionImageFile="" ReflectionImagePath="0" Refraction="1" Rotation="0" Scale="1" Shininess="55.4464" ShowBackFaces="0" Specular="0.9959999919 0.996999979 1 1" TextureFile="" TexturePath="0" TextureWrapModeU="0" TextureWrapModeV="0">
+      <AdvancedUIDefinition Value="Mats/Generic/GenericAdvancedUI.xml"/>
+      <AssetLibID Name="AssetLibID" Value="AFEFC330-5E61-4E24-814F-AE810148B79D"/>
+      <BaseSchema Value="GenericSchema"/>
+      <ExchangeGUID Name="ExchangeGUID" Value=""/>
+      <Hidden Value="0"/>
+      <ImplementationGeneric Value=""/>
+      <ImplementationMentalRay Value="Mats/Generic/MentalImage.xml"/>
+      <ImplementationOGS Value="Mats/Generic/OGS.xml"/>
+      <ImplementationPreview Value="Mats/Generic/PreviewColor.xml"/>
+      <SchemaVersion Value="6"/>
+      <UIDefinition Value="Mats/Generic/GenericUI.xml"/>
+      <UIName Value="Aluminum - Flat"/>
+      <VersionGUID Value="B1B730ED-F368-437C-9B98-79791F204CCD"/>
+      <assettype Name="assettype" Value="materialappearance"/>
+      <category Value="Default"/>
+      <color_by_object Name="Color By Object" Value="0"/>
+      <common_Shared_Asset Name="Sharing" Value="0"/>
+      <common_Tint_color Name="Tint Color" Value="0.3149999976 0.3149999976 0.3149999976 1"/>
+      <common_Tint_color_colorspace Name="Color space" Value="2"/>
+      <common_Tint_toggle Name="Tint" Value="0"/>
+      <description Value="Generic material."/>
+      <generic_ao_details Name="Use Color From Other Materials" Value="1"/>
+      <generic_ao_distance Name="Max Distance" Value="4"/>
+      <generic_ao_on Name="Ambient Occlusion" Value="0"/>
+      <generic_ao_samples Name="Samples" Value="16"/>
+      <generic_backface_cull Name="Backface Cull" Value="1"/>
+      <generic_bump_amount Name="Amount" Value="0"/>
+      <generic_bump_map Name="Bump" Value="0 0 0 1"/>
+      <generic_cutout_opacity Name="Cutouts" Value="1"/>
+      <generic_diffuse Name="Color" Value="0.9959999919 0.996999979 1 1"/>
+      <generic_diffuse_colorspace Name="Color space" Value="2"/>
+      <generic_diffuse_image_fade Name="Image Fade" Value="1"/>
+      <generic_glossiness Name="Glossiness" Value="0.592"/>
+      <generic_is_metal Name="Highlights" Value="1"/>
+      <generic_refl_depth Name="Reflection Max Trace Depth" Value="0"/>
+      <generic_reflection_glossy_samples Name="Reflection Glossy Samples" Value="12"/>
+      <generic_reflectivity_at_0deg Name="Reflectivity" Value="0.184"/>
+      <generic_reflectivity_at_90deg Name="Reflectivity" Value="0.184"/>
+      <generic_refr_depth Name="Override Refraction Depth" Value="-1"/>
+      <generic_refraction_glossy_samples Name="Refraction Glossy Samples" Value="12"/>
+      <generic_refraction_index Name="Refraction" Value="1"/>
+      <generic_refraction_translucency_weight Name="Translucency" Value="0"/>
+      <generic_roundcorners_allow_different_materials Name="Blend with Other Materials" Value="0"/>
+      <generic_roundcorners_radius Name="Round Corners" Value="0"/>
+      <generic_self_illum_color_temperature Name="Color Temperature" Value="6500"/>
+      <generic_self_illum_filter_map Name="Filter Color" Value="1 1 1 1"/>
+      <generic_self_illum_filter_map_colorspace Name="Color space" Value="2"/>
+      <generic_self_illum_luminance Name="Self Illumination" Value="0"/>
+      <generic_transparency Name="Transparency" Value="0"/>
+      <generic_transparency_image_fade Name="Image Fade" Value="1"/>
+      <keyword Value="materials"/>
+      <localname Value="Generic"/>
+      <localtype Value="Appearance"/>
+      <mode Name="Mode" Value="4"/>
+      <revision Value="1"/>
+      <swatch Value="Swatch-Branded"/>
+      <thumbnail Value="Mats/Generic/generic.png"/>
+      <version Value="4"/>
+      <Name Description="Generic material." Language="1033">Aluminum - Flat</Name>
+    </Style>
+  </Colors>
+
+  <Materials Version="6">
+    <Style Density="2.7" EditFlag="0" ExternalMaterialId="2:MATERIAL:MI_InventorSustainability:4B6DBD91-43C6-4D25-8DF6-8066300DF3C8:032A8753-4C73-4F67-A4CF-066E33C4A0C3:0" Identifier="MaterialInv_072" InternalName="1:Aluminum 6061&#xA;" LinearExpansion="23.6" LocalUIName="Aluminum 6061" PoissonsRatio="0.33" ProteinLibraryId="" ProteinMaterialId="" SpecificHeat="0.897" ThermalConductivity="167" UltimateTensileStrength="310" WeldmentMaterial="0" YieldStrength="275" YoungsModulus="68.9">
+      <AdvancedUIDefinition Value=""/>
+      <AssetLibID Name="AssetLibID" Value="AFEFC330-5E61-4E24-814F-AE810148B79D"/>
+      <BaseSchema Value="PhysMatSchema"/>
+      <ExchangeGUID Name="ExchangeGUID" Value=""/>
+      <Hidden Value="0"/>
+      <SchemaVersion Value="5"/>
+      <UIDefinition Value="PhysicalMat/PhysMatUI.xml"/>
+      <UIName Value="Aluminum 6061"/>
+      <VersionGUID Value="8AC01388-612F-4390-9E5D-289F7FC2EE39"/>
+      <assettype Name="assettype" Value="physicalmaterial"/>
+      <category Value="Misc"/>
+      <description Value="Generic"/>
+      <keyword Value="physical"/>
+      <localname Value="Physical Material"/>
+      <localtype Value="Material"/>
+      <physmat_Comments Name="Comments" Value=""/>
+      <physmat_Cost Name="Cost" Value=""/>
+      <physmat_Keynote Name="Keynote" Value=""/>
+      <physmat_Keywords Name="Keywords" Value=""/>
+      <physmat_Label Name="Label" Value=""/>
+      <physmat_Manufacturer Name="Manufacturer" Value=""/>
+      <physmat_Mark Name="Mark" Value=""/>
+      <physmat_Model Name="Model" Value=""/>
+      <physmat_Type Name="Type" Value="12"/>
+      <physmat_URL Name="URL" Value=""/>
+      <physmat_aspects Name="Physical Aspects">
+        <physmat_aspects Identifier="PhysicalGen_103" LocalUIName="Aluminum 6061">
+          <AdvancedUIDefinition Value=""/>
+          <AssetLibID Name="AssetLibID" Value="AFEFC330-5E61-4E24-814F-AE810148B79D"/>
+          <BaseSchema Value="StructuralGenericSchema"/>
+          <ExchangeGUID Name="ExchangeGUID" Value=""/>
+          <Hidden Value="0"/>
+          <SchemaVersion Value="7"/>
+          <UIDefinition Value="Structural/Generic/GenericStructuralUI.xml"/>
+          <UIName Value="Aluminum 6061"/>
+          <VersionGUID Value="PhysicalGen_103"/>
+          <assettype Name="assettype" Value="Structural"/>
+          <category Value="Mics"/>
+          <common_Shared_Asset Name="Sharing" Value="0"/>
+          <description Value="Generic structural asset."/>
+          <keyword Value="structural"/>
+          <localname Value="Generic"/>
+          <localtype Value="Physical"/>
+          <revision Value="1"/>
+          <structural_Behavior Name="Behavior" Value="0"/>
+          <structural_Damping_coefficient Name="Damping Coefficient" Value="0"/>
+          <structural_Density Name="Density" Value="2700"/>
+          <structural_ExternalMaterialID Name="External Material ID" Value="2:MATERIAL:MI_InventorSustainability:4B6DBD91-43C6-4D25-8DF6-8066300DF3C8:032A8753-4C73-4F67-A4CF-066E33C4A0C3:0"/>
+          <structural_Minimum_tensile_strength Name="Tensile Strength" Value="310000"/>
+          <structural_Minimum_yield_stress Name="Yield Strength" Value="275000"/>
+          <structural_Poisson_ratio Name="Poisson's Ratio" Value="0.33"/>
+          <structural_Poisson_ratio_12 Name="Poisson's Ratio 12" Value="0.03"/>
+          <structural_Poisson_ratio_23 Name="Poisson's Ratio 23" Value="0.03"/>
+          <structural_Poisson_ratio_X Name="Poisson's Ratio X" Value="0.03"/>
+          <structural_Poisson_ratio_Y Name="Poisson's Ratio Y" Value="0.03"/>
+          <structural_Poisson_ratio_Z Name="Poisson's Ratio Z" Value="0.03"/>
+          <structural_Shear_modulus Name="Shear Modulus" Value="0.0005"/>
+          <structural_Shear_modulus_12 Name="Shear Modulus 12" Value="0.0005"/>
+          <structural_Shear_modulus_X Name="Shear Modulus X" Value="0.0005"/>
+          <structural_Shear_modulus_Y Name="Shear Modulus Y" Value="0.0005"/>
+          <structural_Shear_modulus_Z Name="Shear Modulus Z" Value="0.0005"/>
+          <structural_Specific_heat Name="Specific Heat" Value="0.897"/>
+          <structural_Thermal_conductivity Name="Thermal Conductivity" Value="167"/>
+          <structural_Thermal_conductivity_X Name="Thermal Conductivity X" Value="0.001"/>
+          <structural_Thermal_conductivity_Y Name="Thermal Conductivity Y" Value="0.001"/>
+          <structural_Thermal_conductivity_Z Name="Thermal Conductivity Z" Value="0.001"/>
+          <structural_Thermal_expansion_coefficient Name="Thermal Expansion Coefficient" Value="23.6"/>
+          <structural_Thermal_expansion_coefficient_1 Name="Thermal Expansion Coefficient 1" Value="0.1"/>
+          <structural_Thermal_expansion_coefficient_2 Name="Thermal Expansion Coefficient 2" Value="0.1"/>
+          <structural_Thermal_expansion_coefficient_X Name="Thermal Expansion Coefficient X" Value="0.1"/>
+          <structural_Thermal_expansion_coefficient_Y Name="Thermal Expansion Coefficient Y" Value="0.1"/>
+          <structural_Thermal_expansion_coefficient_Z Name="Thermal Expansion Coefficient Z" Value="0.1"/>
+          <structural_Young_modulus Name="Young's Modulus" Value="6.89e+07"/>
+          <structural_Young_modulus_1 Name="Young's Modulus 1" Value="0.1"/>
+          <structural_Young_modulus_2 Name="Young's Modulus 2" Value="0.1"/>
+          <structural_Young_modulus_X Name="Young's Modulus X" Value="0.1"/>
+          <structural_Young_modulus_Y Name="Young's Modulus Y" Value="0.1"/>
+          <structural_Young_modulus_Z Name="Young's Modulus Z" Value="0.1"/>
+          <structural_source Name="Source" Value="Autodesk"/>
+          <structural_sourceURL Name="Source URL" Value=""/>
+          <structural_subclass Name="Subclass" Value=""/>
+          <thumbnail Value=""/>
+          <version Value="4"/>
+        </physmat_aspects>
+        <physmat_aspects Identifier="Generic" LocalUIName="Aluminum - Flat">
+          <AdvancedUIDefinition Value="Mats/Generic/GenericAdvancedUI.xml"/>
+          <AssetLibID Name="AssetLibID" Value="AFEFC330-5E61-4E24-814F-AE810148B79D"/>
+          <BaseSchema Value="GenericSchema"/>
+          <ExchangeGUID Name="ExchangeGUID" Value=""/>
+          <Hidden Value="0"/>
+          <ImplementationGeneric Value=""/>
+          <ImplementationMentalRay Value="Mats/Generic/MentalImage.xml"/>
+          <ImplementationOGS Value="Mats/Generic/OGS.xml"/>
+          <ImplementationPreview Value="Mats/Generic/PreviewColor.xml"/>
+          <SchemaVersion Value="6"/>
+          <UIDefinition Value="Mats/Generic/GenericUI.xml"/>
+          <UIName Value="Aluminum - Flat"/>
+          <VersionGUID Value="B1B730ED-F368-437C-9B98-79791F204CCD"/>
+          <assettype Name="assettype" Value="materialappearance"/>
+          <category Value="Default"/>
+          <color_by_object Name="Color By Object" Value="0"/>
+          <common_Shared_Asset Name="Sharing" Value="0"/>
+          <common_Tint_color Name="Tint Color" Value="0.3149999976 0.3149999976 0.3149999976 1"/>
+          <common_Tint_color_colorspace Name="Color space" Value="2"/>
+          <common_Tint_toggle Name="Tint" Value="0"/>
+          <description Value="Generic material."/>
+          <generic_ao_details Name="Use Color From Other Materials" Value="1"/>
+          <generic_ao_distance Name="Max Distance" Value="4"/>
+          <generic_ao_on Name="Ambient Occlusion" Value="0"/>
+          <generic_ao_samples Name="Samples" Value="16"/>
+          <generic_backface_cull Name="Backface Cull" Value="1"/>
+          <generic_bump_amount Name="Amount" Value="0"/>
+          <generic_bump_map Name="Bump" Value="0 0 0 1"/>
+          <generic_cutout_opacity Name="Cutouts" Value="1"/>
+          <generic_diffuse Name="Color" Value="0.9959999919 0.996999979 1 1"/>
+          <generic_diffuse_colorspace Name="Color space" Value="2"/>
+          <generic_diffuse_image_fade Name="Image Fade" Value="1"/>
+          <generic_glossiness Name="Glossiness" Value="0.592"/>
+          <generic_is_metal Name="Highlights" Value="1"/>
+          <generic_refl_depth Name="Reflection Max Trace Depth" Value="0"/>
+          <generic_reflection_glossy_samples Name="Reflection Glossy Samples" Value="12"/>
+          <generic_reflectivity_at_0deg Name="Reflectivity" Value="0.184"/>
+          <generic_reflectivity_at_90deg Name="Reflectivity" Value="0.184"/>
+          <generic_refr_depth Name="Override Refraction Depth" Value="-1"/>
+          <generic_refraction_glossy_samples Name="Refraction Glossy Samples" Value="12"/>
+          <generic_refraction_index Name="Refraction" Value="1"/>
+          <generic_refraction_translucency_weight Name="Translucency" Value="0"/>
+          <generic_roundcorners_allow_different_materials Name="Blend with Other Materials" Value="0"/>
+          <generic_roundcorners_radius Name="Round Corners" Value="0"/>
+          <generic_self_illum_color_temperature Name="Color Temperature" Value="6500"/>
+          <generic_self_illum_filter_map Name="Filter Color" Value="1 1 1 1"/>
+          <generic_self_illum_filter_map_colorspace Name="Color space" Value="2"/>
+          <generic_self_illum_luminance Name="Self Illumination" Value="0"/>
+          <generic_transparency Name="Transparency" Value="0"/>
+          <generic_transparency_image_fade Name="Image Fade" Value="1"/>
+          <keyword Value="materials"/>
+          <localname Value="Generic"/>
+          <localtype Value="Appearance"/>
+          <mode Name="Mode" Value="4"/>
+          <revision Value="1"/>
+          <swatch Value="Swatch-Branded"/>
+          <thumbnail Value="Mats/Generic/generic.png"/>
+          <version Value="4"/>
+        </physmat_aspects>
+      </physmat_aspects>
+      <physmat_class Name="Class" Value=""/>
+      <physmat_classification Name="physmat_classification" Value="Autodesk.Material Classifications.Other.Generic"/>
+      <physmat_deleted_aspects Name="Physical Aspects"/>
+      <revision Value="1"/>
+      <thumbnail Value="Mats\Generic\Presets\t_InvGen-071.png"/>
+      <version Value="4"/>
+      <SubStyle Collection="Colors" Language="1033" LibId="AFEFC330-5E61-4E24-814F-AE810148B79D" Type="ColorStyle">Aluminum - Flat</SubStyle>
+      <Name Description="Aluminum, magnesium silicon alloy" Language="1033">Aluminum 6061</Name>
+    </Style>
+  </Materials>
+
+  <SheetMetalUnfold Version="3">
+    <Style EditFlag="3" InternalName="1:SendCutSend_3-16_Alu&#xA;" KFactor="0.43" KFactorBackup="0.440 ul" SplineFactor="0.500 ul" Type="1">
+      <BendTable AngleTolerance="0.004" InputUnit="2" IsOuterAngle="0" RadiiTolerance="0.004" ThicknessTolerance="4e-05"/>
+      <Name Description="" Language="1033">SendCutSend_3-16_Alu</Name>
+    </Style>
+  </SheetMetalUnfold>
+
+  <SheetMetalRules Version="4">
+    <Style BendAngleRepType="1" BendRadius="1 inch / 4" BendReliefType="2" BendTransitionType="1" EditFlag="3" GapSize="#Thickness#" InternalName="1:SendCutSend_3-16_Alu&#xA;" MinimumRemnant="#Thickness# * 2.0 ul" PunchRepStatus="1" ReliefDepth="#Thickness# * 0.5 ul" ReliefWidth="#Thickness#" Thickness="0.1875 in" ThreeBendIntersectionSize="#BendRadius#" ThreeBendIntersectionType="4" TransitionRadius="#BendRadius#" TwoBendIntersectionSize="#Thickness# * 4 ul" TwoBendIntersectionType="4">
+      <SubStyle Collection="SheetMetalUnfold" Language="1033" Type="UnfoldStyle">SendCutSend_3-16_Alu</SubStyle>
+      <SubStyle Collection="Materials" Language="1033" Type="MaterialStyle">Aluminum 6061</SubStyle>
+      <Name Description="" Language="1033">SendCutSend_3-16_Alu</Name>
+    </Style>
+  </SheetMetalRules>
+
+</Export>
